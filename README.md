@@ -11,7 +11,7 @@ Adoptante, Caine Jeneah U. ([sopkeyn](https://github.com/sopkeyn))
 
 *Project Supervisor*:
 
-
+Dimaano, Kian Michael G. ([KMTechies](https://github.com/KMTechies))
 
 *Project Quality*:
 
